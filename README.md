@@ -1,5 +1,5 @@
-# my-repository
-Welcome to my repository!
+# learning-by-doing-repository
+Welcome to learning-by-doing-repository!
 
 ## Data Science Projects
 This Repository Project contains personal projects as my learning towards a Data Science career. See my works below:
